@@ -10,7 +10,7 @@ Source code for paper
 
 The public dataset MovieLens-1M can be obtained from [here](https://files.grouplens.org/datasets/movielens/ml-1m.zip)  
 MovieLens-1M process-code can be get from [MetaHIN](https://github.com/rootlu/MetaHIN)  
-We also provide the processed dataset as example and encode them into vectors, which can be obtained from [Google Drive](https://drive.google.com/drive/folders/1xg8XHbUiae1pk_ZU1R2mvn1tvQXFuZcx?usp=sharing)
+We also provide the processed dataset as example and encode them into vectors, which can be obtained from [Google Drive](https://drive.google.com/drive/folders/1V85XUpGFmnDkVoivBHg1n90WUmjEyUEo?usp=sharing)
 
 # Platform
 
