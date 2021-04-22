@@ -1,5 +1,5 @@
 # MetaCDR
-Source code for paper
+Source code for MetaCDR
 
 # Requirement
 
