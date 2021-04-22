@@ -25,3 +25,7 @@ python main.py
 ```python
 python main.py --test
 ```
+
+# Output
+
+In `out.log`, we show the output during the training process in the `User Cold-start` scenario on the Movie Lens 1M dataset as an example. Due to the influence of random numbers, the evaluating results may be slightly different.
