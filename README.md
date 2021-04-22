@@ -14,6 +14,7 @@ We also provide the processed dataset as example and encode them into vectors, w
 # Platform
 
 Our operating environment: Ubuntu 16.04.6, GPU(Tesla V100 32G), and CPU(Intel Xeon E5-2698 v4).
+The model consumes about 25G GPU memory, appropriately reducing '--tasks_per_metaupdate' can reduce memory consumption.
 
 # Run
 
