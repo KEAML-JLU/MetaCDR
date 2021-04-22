@@ -3,13 +3,12 @@ Source code for paper
 
 # Requirement
 
-- Python 3.8.5
-- PyTorch 1.7.1
+- Python 3.6.8
+- PyTorch 1.4.1
 
 # Dataset
 
 The public dataset MovieLens-1M can be obtained from [here](https://files.grouplens.org/datasets/movielens/ml-1m.zip)  
-MovieLens-1M process-code can be get from [MetaHIN](https://github.com/rootlu/MetaHIN)  
 We also provide the processed dataset as example and encode them into vectors, which can be obtained from [Google Drive](https://drive.google.com/drive/folders/1V85XUpGFmnDkVoivBHg1n90WUmjEyUEo?usp=sharing)
 
 # Platform
