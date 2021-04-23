@@ -29,3 +29,7 @@ python main.py --test
 # Output
 
 In `out.log`, we show the output during the training process in the `User Cold-start` scenario on the `MovieLens 1M` dataset. Due to the influence of random numbers, the evaluating results may be slightly different (a little better or worse), but they are generally consistent with the experimental results in paper.
+
+# Acknowledgement
+
+This code refers code from: [hoyeoplee/MeLU](https://github.com/hoyeoplee/MeLU), [waterhorse1/MELU_pytorch](https://github.com/waterhorse1/MELU_pytorch).
