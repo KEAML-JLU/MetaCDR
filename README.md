@@ -32,4 +32,4 @@ In `out.log`, we show the output during the training process in the `User Cold-s
 
 # Acknowledgement
 
-This code refers code from: [hoyeoplee/MeLU](https://github.com/hoyeoplee/MeLU), [waterhorse1/MELU_pytorch](https://github.com/waterhorse1/MELU_pytorch).
+[hoyeoplee/MeLU](https://github.com/hoyeoplee/MeLU), [waterhorse1/MELU_pytorch](https://github.com/waterhorse1/MELU_pytorch).
