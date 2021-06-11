@@ -14,7 +14,7 @@ We also provide the processed dataset and encode them into vectors as example, w
 # Platform & Hyperparameters
 
 Our operating environment: Ubuntu 16.04.6, GPU(Tesla V100 32G), and CPU(Intel Xeon E5-2698 v4).  
-The model without pretrain consumes about 25G GPU memory, appropriately reducing  ` --tasks_per_metaupdate ` (default == 16) or taking a random strategy to select data sample (default Cartesian product) can reduce memory consumption.  
+The model without pretrain consumes about 25G GPU memory, appropriately reducing  ` --tasks_per_metaupdate ` (default == 16) or taking a random strategy to select data sample (default Cartesian product) can reduce memory consumption, but it will damage the accuracy of the model.
 Reducing the number of update steps can also speed up training and evaluating. Experiments in Sec.5 have shown that the number of global/local update steps has little effect on the model in `User-Item Cold-start` environment, but we still recommend using the parameters we set (1/5) if conditions permit, because in most scensrio this will achieve slightly better results.  
 Training options can be viewed through `argslist.py`.We will also improve our code to add more options soon.
 
