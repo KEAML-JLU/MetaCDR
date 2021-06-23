@@ -9,7 +9,7 @@ Source code for MetaCDR
 # Dataset
 
 The public dataset MovieLens-1M can be obtained from [here](https://files.grouplens.org/datasets/movielens/ml-1m.zip)  
-We also provide the processed dataset and encode them into torch.Tensor as example, which can be obtained from [Google Drive](https://drive.google.com/drive/folders/1V85XUpGFmnDkVoivBHg1n90WUmjEyUEo?usp=sharing)
+We also provide the processed dataset and encode them into `torch.Tensor` as example, which can be obtained from [Google Drive](https://drive.google.com/drive/folders/1V85XUpGFmnDkVoivBHg1n90WUmjEyUEo?usp=sharing)
 
 # Platform & Hyperparameters
 
