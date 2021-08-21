@@ -20,7 +20,7 @@ If you have a better way to speed up the model, I hope to receive your email, th
 
 Reducing the number of update steps can also speed up training and evaluating. Experiments in Sec.5 have shown that the number of global/local update steps has little effect on the model in `User-Item Cold-start` environment, but we still recommend using the parameters we set (1/5) if conditions permit, because in most scensrio this will achieve slightly better results.  
 
-Training options can be viewed through `argslist.py`.We will also improve our code to add more options soon.
+Training options can be viewed through `argslist.py`. We will also improve our code to add more options soon.
 
 # Run
 
