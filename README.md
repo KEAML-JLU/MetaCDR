@@ -1,5 +1,5 @@
 # MetaCDR
-Source code for MetaCDR
+Source code for "Cross-Domina Meta-Learner for Cold-Start Recommendation".
 
 # Requirement
 
