@@ -1,6 +1,9 @@
 # MetaCDR
 Source code for "Cross-Domain Meta-Learner for Cold-Start Recommendation".
 
+# Model
+![](/image/MetaCDR.png)
+
 # Requirement
 
 - Python == 3.6.8
