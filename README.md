@@ -40,4 +40,4 @@ In `out.log`, we show the output during the training process in the `User Cold-s
 
 # Acknowledgement
 
-Code: [drragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch), [hoyeoplee/MeLU](https://github.com/hoyeoplee/MeLU), [waterhorse1/MELU_pytorch](https://github.com/waterhorse1/MELU_pytorch)
+Code: [drragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch), [hoyeoplee/MeLU](https://github.com/hoyeoplee/MeLU), [waterhorse1/MELU_pytorch](https://github.com/waterhorse1/MELU_pytorch), [hexiangnan/neural_collaborative_filtering](https://github.com/hexiangnan/neural_collaborative_filtering)
