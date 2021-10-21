@@ -6,8 +6,8 @@ Source code for "Cross-Domain Meta-Learner for Cold-Start Recommendation".
 
 # Requirement
 
-- Python = 3.6.8
-- PyTorch = 1.4.1
+- Python == 3.6.8
+- PyTorch == 1.4.1
 
 # Dataset
 
